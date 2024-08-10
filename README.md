@@ -8,9 +8,8 @@ This Java application helps users find the shortest path between various locatio
 
 - **Location Selection**: Choose a starting location and destination from a dropdown list.
 - **Shortest Path Calculation**: Calculate and display the shortest path between selected locations.
-- **Distance Display**: Show the approximate distance of the calculated path.
-- **Landmark Navigation**: Option to use landmarks for navigation.
+  h- **Landmark Navigation**: Option to use landmarks for navigation.
 
 # IMAGES
 
-![alt text](image-1.png)
+![alt text](image.png)
