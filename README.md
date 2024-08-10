@@ -13,4 +13,4 @@ This Java application helps users find the shortest path between various locatio
 
 # IMAGES
 
-![alt text](image.png)
+![alt text](image-1.png)
